@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yu-Hsiang Huang (黃宇祥)
+    name: Yu-Hsiang Huang<br />(黃宇祥)
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yhhuang79@gmail.com
     phone: 0975 072788
-    website: blog.webjeda.com #do not add http://
+    website: yhhuang79.github.io/resume/ #do not add http://
     linkedin: yhhuang79
     github: yhhuang79
     gitlab:
@@ -43,7 +43,7 @@ career-profile:
     summary: |
       I am a full stack developer, and have enthusiastic research on various new technologies, from the cloud to the hardware. I used to be a system architect of the Advanced Network Technology and Service Laboratory of Academia Sinica, developing PLASH location-aware services and human-to-computing platforms and the heat-wave plan TaiwanAir air quality monitoring and prediction platform. I once served as a volunteer for the Baton project, a lecturer in agile development combat camp, and also researched the Agile development process.
 education:
-    - degree: Ph.D. in Computer Science and Engineering
+    - degree: Ph.D. in Networking and Multimedia
       university: National Taiwan University
       time: 2013 - 2016 (Incomplete)
 
@@ -55,17 +55,12 @@ experiences:
       time: 2016 - 2019
       company: HTC, Taipei
       details: |
-        During I worked at HTC, I have developed VIVEPORT︑VIVEPORT Arcade︑VIVEPORT Education︑VIVEPORT Enterprise and related internal information systems. The platform uses technologies such as React.js︑Redux.js︑Node.js︑Express.js︑Webpack︑Babel︑Ballerina︑Scala︑MongoDB︑MySQL...
-          - React
-          - Scala
-          - Ballerina
+        During I worked at HTC, I have developed VIVEPORT︑VIVEPORT Arcade︑VIVEPORT Education︑VIVEPORT Enterprise and related internal information systems. The platform uses technologies such as <u><b><i>React.js</i></b></u>︑<u><b><i>Redux.js</i></b></u>︑<u><b><i>Node.js</i></b></u>︑Express.js︑Webpack︑Babel︑Ballerina︑Scala︑MongoDB︑MySQL...
     - role: Co-Funder
       time: 2014 - 2015
       company: G-Coin, Taipei
       details: |
         At G-Coin, I’m mainly studying Bitcoin and Blockchain technology, and proposes the improvement of Proof of Work mechanism and the implementation of Hadoop HDFS distributed storage blockchain mechanism.
-          - Bitcoin
-          - Blockchian
     - role: Research Assistant
       time: 2010 - 2016
       company: Institute of Information Science @ Academia Sinica, Taipei
@@ -73,10 +68,11 @@ experiences:
         During I worked at the Academia Sinica, I have developed PLASH location-aware service and human intelligence computing platform and its related subsystems. This platform uses technologies such as JAVA Spring Framework, Mule ESB, Apache ActiveMQ, PostgreSQL / PostGIS, and also uses HTML 5 in Front-end part to develop web pages and Android apps. 
         Participated in the development of myID-OpenID identity authentication platform and Daodin Digital Collection Android App development. In this plan, I was mainly responsible for writing the social network OAUTH connection part, including Facebook︑Twitter︑Plurk︑Google+/Picasa and other social network connections .
         Finally, I'm mainly responsible for the development of TaiwanAir -  air quality monitoring and prediction platform for heat waves. This plan mainly uses technologies such as HTML 5︑Bootstroop︑JQuery︑NodeJS in Front-end. The air quality prediction part uses the Spark Framework because it involves big data computing. In backend part uses Apache Spark, Apache Mesos, Marathon, Docker, RethinkDB and other technologies.
+        
         Publications
-          Yi Chun Teng; Fu Ming Huang; Yu Hsiang Huang; Meng Chang Chen, "PLASH: An ESB-based Platform for Developing and Deploying Location Aware Services with SOC Concepts," e-Business Engineering (ICEBE), 2012 IEEE Ninth International Conference on , vol., no., pp.344,349, 9-11 Sept. 2012
-          Fu-Ming Huang; Yu Hsiang Huang; Szu, C.; Su, A.Y.S.; Meng Chang Chen; Sun, Y.S., "A Study of a Life Logging Smartphone App and Its Power Consumption Observation in Location-Based Service Scenario," in Mobile Services (MS), 2015 IEEE International Conference on , vol., no., pp.225-232, June 27 2015-July 2 2015
-          Mick Chang-Heng Lin, Fu-Ming Huang, Po-Ching Liu, Yu-Hsiang Huang and You-Shan Chung, "Dijkstra-Based Selection for Parallel Multi-lanes Map-Matching and An Actual Path Tagging System," in The 8th Asian Conference on Intelligent Information and Database Systems (ACIIDS2016)
+          - Yi Chun Teng; Fu Ming Huang; Yu Hsiang Huang; Meng Chang Chen, "PLASH: An ESB-based Platform for Developing and Deploying Location Aware Services with SOC Concepts," e-Business Engineering (ICEBE), 2012 IEEE Ninth International Conference on , vol., no., pp.344,349, 9-11 Sept. 2012
+          - Fu-Ming Huang; Yu Hsiang Huang; Szu, C.; Su, A.Y.S.; Meng Chang Chen; Sun, Y.S., "A Study of a Life Logging Smartphone App and Its Power Consumption Observation in Location-Based Service Scenario," in Mobile Services (MS), 2015 IEEE International Conference on , vol., no., pp.225-232, June 27 2015-July 2 2015
+          - Mick Chang-Heng Lin, Fu-Ming Huang, Po-Ching Liu, Yu-Hsiang Huang and You-Shan Chung, "Dijkstra-Based Selection for Parallel Multi-lanes Map-Matching and An Actual Path Tagging System," in The 8th Asian Conference on Intelligent Information and Database Systems (ACIIDS2016)
 
 projects:
     title: Projects
