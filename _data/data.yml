@@ -83,30 +83,26 @@ experiences:
           - Mao-Hsu Yen, Chu Yu, Kuang-Yu Shie, Yu-Hsiang Huang, and Jiun-Liang Lin, "Implement an SDR Platform by Using GNU Radio and USRP," 2010 Conference on Innovative Applications of System Prototyping and Circuit Design, PAL2010
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Taiwan Air - Air quality monitoring and prediction platform
+        link: "https://github.com/yhhuang79/uair"
+        tagline: "Under climate change, heat waves are expected to occur frequently and continue to set historical records. In recent years, Taiwan has also been experiencing heat waves that lasted for several days. At the same time, it has also seen a rise in respiratory and cardiovascular disease mortality during the heatwave. In order to reduce the negative impact of heat waves, it is necessary to immediately construct a forward-looking vulnerability assessment to formulate heat wave adaptation strategies. In this project, I am responsible for constructing the <a href=\"http://taiwanair.plash.tw\">http://taiwanair.plash.tw</a> Taiwan Air air quality observation platform and the computing platform Spark / Hadoop environment.<br /><br />News report：<a href=\"http://news.ltn.com.tw/news/life/paper/1013976\">http://news.ltn.com.tw/news/life/paper/1013976</a>"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PLASH - Platform for Location-Aware Services with Human computation
+        link: "https://github.com/yhhuang79/plash_platform_v2"
+        tagline: "PLASH is Platform for Location-Aware Services with Human computation, which is mainly a software platform developed by the Institute for Location Awareness and Mass Outsourcing. The system design adopts multi-layer design, which mainly includes communication layer, data layer and service layer. Multi-layer design makes the system simple and easy to develop and maintain."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ANTrack
+        link: "https://github.com/yhhuang79/antrack"
+        tagline: "This is an realtime trajectory sharing app developed based on the PLASH platform"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ANTrip Lite
+        link: "http://antrip.plash.tw"
+        tagline: "This is a Web APP developed based on the PLASH platform. The biggest difference between ANTrip Lite and ANTrip is that ANTrip Lite is developed in HTML5 and has cross-platform features not available in traditional Native APPs."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Academia Sinica Discovery (ASD)
+        link: "https://github.com/yhhuang79/plash-asd"
+        tagline: "ASD is a campus navigation app developed in conjunction with the annual Openhouse event of Academia Sinica. Augmented Reality technology is used, but unlike the traditional method of AR using tags, it uses the positioning function of the PLASH platform to create a virtual Geo Tag in the space."
 
 publications:
     title: Competition experiences
