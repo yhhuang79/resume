@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a full stack developer, and have enthusiastic research on various new technologies, from the cloud to the hardware. I used to be a system architect of the Advanced Network Technology and Service Laboratory of Academia Sinica, developing PLASH location-aware services and human-to-computing platforms and the heat-wave plan TaiwanAir air quality monitoring and prediction platform. I once served as a volunteer for the Baton project, a lecturer in agile development combat camp, and also researched the Agile development process.
+      I am a full stack developer, and have enthusiastic research on various new technologies, from the cloud to the hardware. I used to be a system architect of the Advanced Network Technology and Service Laboratory of Academia Sinica, developing PLASH location-aware services and human-to-computing platforms and the heat-wave project TaiwanAir air quality monitoring and prediction platform. I once served as a volunteer for the Baton project, a lecturer in agile development combat camp, and also researched the Agile development process.
 education:
     - degree: Ph.D. in Networking and Multimedia
       university: National Taiwan University
@@ -73,7 +73,14 @@ experiences:
           - Yi Chun Teng; Fu Ming Huang; Yu Hsiang Huang; Meng Chang Chen, "PLASH: An ESB-based Platform for Developing and Deploying Location Aware Services with SOC Concepts," e-Business Engineering (ICEBE), 2012 IEEE Ninth International Conference on , vol., no., pp.344,349, 9-11 Sept. 2012
           - Fu-Ming Huang; Yu Hsiang Huang; Szu, C.; Su, A.Y.S.; Meng Chang Chen; Sun, Y.S., "A Study of a Life Logging Smartphone App and Its Power Consumption Observation in Location-Based Service Scenario," in Mobile Services (MS), 2015 IEEE International Conference on , vol., no., pp.225-232, June 27 2015-July 2 2015
           - Mick Chang-Heng Lin, Fu-Ming Huang, Po-Ching Liu, Yu-Hsiang Huang and You-Shan Chung, "Dijkstra-Based Selection for Parallel Multi-lanes Map-Matching and An Actual Path Tagging System," in The 8th Asian Conference on Intelligent Information and Database Systems (ACIIDS2016)
-
+    - role: Research Assistant
+      time: 2004 - 2010
+      company: National Taiwan Ocean University, Keelung
+      details: |
+        During worked at National Taiwan Ocean University, I’m a research assistant and a student, My main research areas were Software Defined Radio (SDR) and Cognitive Radio (CR). I developed software-defined 802.11 MAC Layer using GNU Radio and USRP (Universal Software Radio Peripheral) , and porting Spectrum Sensing to the embedded system development board Beagle Board. In addition, a passive MAC layer is developed on the NS2 network simulator.
+        
+        Publications
+          - Mao-Hsu Yen, Chu Yu, Kuang-Yu Shie, Yu-Hsiang Huang, and Jiun-Liang Lin, "Implement an SDR Platform by Using GNU Radio and USRP," 2010 Conference on Innovative Applications of System Prototyping and Circuit Design, PAL2010
 projects:
     title: Projects
     intro: >
@@ -102,47 +109,39 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Competition experiences
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 2014  MaiChu Hackathon, IoT Group：Winner
+      - title: 2007  The 9th TIC100 Technology Innovation Competition
+      - title: 2005  Tensilica  Configurable Processor Contest
+      - title: 2002  The 4th TIC100 Technology Innovation Competition
+      - title: 2001  The 3rd TIC100 Technology Innovation Competition
+      - title: 1998  Nation Collegiate Programming Contest, Final round
+      - title: 1997  Taipei Senior High School Programming Contest, Winner
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: React
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Ballerina lang
+        level: 98%
 
-      - name: Sketch & Photoshop
+      - name: Java & Spring framework
+        level: 75%
+
+      - name: Python & Django
+        level: 60%
+
+      - name: Ruby on Rails
         level: 60%
 
 footer: >
