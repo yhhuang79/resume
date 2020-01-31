@@ -42,10 +42,13 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Climbing
+      - item: Programming
         link:
 
       - item: Cooking
+        link:
+
+      - item: Climbing
         link:
 
 career-profile:
@@ -128,31 +131,6 @@ publications:
       - title: 2001  The 3rd TIC100 Technology Innovation Competition
       - title: 1998  Nation Collegiate Programming Contest, Final round
       - title: 1997  Taipei Senior High School Programming Contest, Winner
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: React
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ballerina lang
-        level: 98%
-
-      - name: Java & Spring framework
-        level: 75%
-
-      - name: Python & Django
-        level: 60%
-
-      - name: Ruby on Rails
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

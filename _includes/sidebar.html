@@ -23,15 +23,15 @@
     {% include education.html %}
   {% endif %}
 
+  {% if sidebar.skills %}
+    {% include sidebar-skills.html %}
+  {% endif %}
+
   {% include language.html %}
   {% include interests.html %}
 
   {% if sidebar.about %}
     {% include about.html %}
-  {% endif %}
-
-  {% if sidebar.skills %}
-    {% include sidebar-skills.html %}
   {% endif %}
 
 </div><!--//sidebar-wrapper-->
