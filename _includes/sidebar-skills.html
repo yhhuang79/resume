@@ -1,0 +1,16 @@
+{% if sidebar.skills %}
+<div class="education-container container-block">
+
+    <h2 class="container-block-title">
+      Skills
+    </h2>
+
+    {% for skill in sidebar.skills %}
+    <div class="item">
+      <h4 class="degree">{{ skill.name }}</h4>
+      <h5 class="meta">{{ skill.desc }}</h5>
+    </div><!--//item-->
+    {% endfor %}
+
+</div><!--//education-container-->
+{% endif %}

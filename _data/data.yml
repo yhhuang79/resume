@@ -23,7 +23,17 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
+    skills:
+      - name: 'Frond-end :'
+        detail: Angular (still learning), React.js, JQuery, Bootstrap, HTML5, Javascript, etc.
+      
+      - name: 'Back-end :'
+        detail: Java Spring framework, Python Django framework, NodeJS, PHP
 
+      - name: 'Other :'
+        detail: Android, AOSP, Objective-C, Arduino, Azure CI/CD, AWS, etc.
+  
     languages:
       - idiom: Chinese
         level: Native
